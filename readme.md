@@ -1,4 +1,4 @@
-# Løsningsforslag for Programmeringsoppgaver 🌟
+# Løsningsforslag for Programmeringsoppgaver
 
 Dette repositoriet inneholder løsningsforslag for en rekke programmeringsoppgaver. Hver oppgave er designet for å bygge opp en forståelse av ulike programmeringskonsepter, fra grunnleggende til nokså avanserte nivåer. 🚀
 
@@ -9,15 +9,15 @@ Dette repositoriet inneholder løsningsforslag for en rekke programmeringsoppgav
 - `M3_løsningsforslag.py` - Løsning for Modul 3, introduserer løkker og range(). 🔍
 - `M4_løsningsforslag.py` - Løsning for Modul 4, tar for seg funksjoner og hvordan de kan brukes til å organisere kode. 📊
 
-I tillegg har vi `Bonus_løsningsforslag.py`, som tilbyr løsninger på bonusoppgaver for de som søker ekstra utfordringer. 🌟
+I tillegg har vi `Bonus_løsningsforslag.py`, som tilbyr løsninger på bonusoppgaver for de som søker ekstra utfordringer.
 
-## Hvordan Bruke Dette Repositoriet 🤔
+## Hvordan bruke dette repositoriet 🤔
 
-Hver fil korresponderer med en spesifikk oppgave og inneholder en komplett løsning for den. Du kan bla gjennom filene for å se løsningene og forstå forskjellige måter oppgavene kan løses på.
+Hver mappe korresponderer med en spesifikk modul og inneholder en komplett løsning for den. Du kan bla gjennom mappene for å se løsningene og forstå forskjellige måter oppgavene kan løses på.
 
 Jeg oppfordrer deg til å forsøke å løse oppgavene selv før du kikker på løsningsforslagene for å få mest mulig ut av læringsopplevelsen. 💪
 
-## Bidrag 🤝
+## Bidrag / forbedring 🤝
 
 Hvis du har ideer til forbedringer eller ønsker å foreslå flere oppgaver, ikke nøl med å sende inn en 'pull request' eller åpne et 'issue'. Alle bidrag er velkomne! 🙌
 
