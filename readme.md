@@ -2,6 +2,8 @@
 
 Dette repositoriet inneholder løsningsforslag for en rekke programmeringsoppgaver. Hver oppgave er designet for å bygge opp en forståelse av ulike programmeringskonsepter, fra grunnleggende til nokså avanserte nivåer. 🚀
 
+[Skriv koden deres her](https://www.programiz.com/python-programming/online-compiler/)
+
 ## Oppgaveliste 📝
 
 - `M1_løsningsforslag.py` - Løsning for Modul 1, hvor vi utforsker de grunnleggende byggesteinene i Python. 🐍 Variabler, if's (elif og else), samt innrykk. 
